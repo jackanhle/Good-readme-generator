@@ -1,4 +1,7 @@
+**Example of Good Read me Generator**
+
 # Read me
+
     ![badge](https://img.shields.io/badge/license-MIT-gray)
   
     ## Description:
